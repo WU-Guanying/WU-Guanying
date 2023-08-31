@@ -1,5 +1,5 @@
 - 👋 Hi guys, I’m Guanying with Research Center for Data Intelligence in Beihang University
-- 👀 Main interests: Multivariate Timeseries Forecasting, Spatiotemporal Data Fusion, Intelligent City, Graph Learning (and guitar, BBOX, and all kinds of outdoor activities 😆)
+- 👀 Main interests: Multivariate Timeseries Forecasting, Spatiotemporal Data Fusion, Intelligent City, Graph Learning (plus guitar, BBOX, and all kinds of outdoor activities 😆)
 - 🌱 I’m currently engaging in modeling intertemporal spatial correlations
 - 📫 How to reach me: guanying.x.wu@gmail.com
 
